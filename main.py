@@ -37,7 +37,6 @@ aibool16 = False
 aibool17 = False
 aibool18 = False
 aibool19 = False
-aib00l20 = False
 # for i in range(1, 20):
 #     globals()['aibool' + str(i)] = False
 #     print(globals()['aibool' + str(i)])
