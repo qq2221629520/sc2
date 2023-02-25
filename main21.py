@@ -1,0 +1,1 @@
+# 请输入这个程序的功能 # pip install -i https://pypi.tuna.tsinghua.edu.cn/simple xxxx # 打包命令 pyinstaller xxxxxxxx --onefile --icon=xxxxxxxxxx # 重写一个通知窗口类，实现了鼠标移动到窗口区域内，窗口自动移动到鼠标附近
